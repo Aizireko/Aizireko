@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aizireko
-- 👀 I’m interested in IT 
-- 🌱 I’m currently learning Peaksoft
+- 👀 I’m interested in Information Tehnology 
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 Aizireko/Aizireko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
